@@ -27,7 +27,7 @@ if __name__ == "__main__":
   ledname=[]
 
   Adafruit_IO_USER = 'Jiwon1121'
-  Adafruit_IO_KEY = "aio_QLCh78pflpzTzUCAJPizUc0qxzZv"
+  Adafruit_IO_KEY = "URKEY"
 
   aio = Client(Adafruit_IO_USER,Adafruit_IO_KEY)
 
